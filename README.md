@@ -13,4 +13,4 @@ CSS in `src/_includes/custom.css` and JS in `src/_includes/custom.js` are minifi
 
 ## Github Pages
 
-Auto-builds for Github Pages. Set your custom domain in the CNAME file, and after the first build runs, set Pages to deploy from a branch. Choose `gh-pages`.
+Auto-builds for Github Pages. First enable workflow actions for the repo. Then set your custom domain in the CNAME file, and after the first build runs, set Pages to deploy from a branch. Choose `gh-pages`.
