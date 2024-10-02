@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Main
+description: Reference sheets for Kay Ohtie's normal inflatable coyote form.
 image: /images/KayCoyote_RefSheet_Clothes-01-600.png
 ---
 

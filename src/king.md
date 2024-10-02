@@ -1,6 +1,8 @@
 ---
 layout: base.njk
 title: King - OUTFIT REFERENCE ONLY
+description: Reference images for Kay's "royal" form, King Kay Ohtie.
+image: /images/kitsunekit_20200817_GlitchHyenaKayBirthday2020-600.png
 ---
 
 # King Kay Ohtie Outfit Reference
